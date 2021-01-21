@@ -1,9 +1,9 @@
 # someRandomProjects
-<h1>Recently i finished web development bootcamp course from app brewery. Theese are some projects I've done so far. Feel free to check them out!</h1>
+<h1>Recently I finished web development bootcamp course from app brewery. Theese are some projects I've done so far. Feel free to check them out!</h1>
 
 
 <h3>Project1- </h3>
-<p>Note app created with react. It was kind of useState and props practice.</p>
+<p>Note app created with react. It was useState and props practice.</p>
 
 <h3>Project2-</h3>
 <p>Basic dice game. I did this site at the begining of course. Used html css and javascript on this one. Declared 2 random number for each player and with if statements the winner gets determined. Page heading text manipulated with dom to show winner.</p>
