@@ -22,3 +22,7 @@
 </p>
 <h3>Project7-</h3>
 <p>I did this login page at the begining of React section. Learned how to use components with this one.</p>
+
+<h5>If you wanna check out react projects more comfortably feel free to git clone, install npm packages then test them on live server. I did not deploy every small project to live. Currently learning more about MERN stack. I'll deploy and show much bigger projects later on.</h5>
+
+
