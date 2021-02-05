@@ -1,8 +1,8 @@
-<h2>Some random projects</h2>-
+<h2>Some random projects</h2>
 
 <p>Recently I finished web development bootcamp course from app brewery. Theese are some projects I've done so far. Feel free to check them out!</p>
 
-<h2>Project1</h2>
+<h2>Project1-</h2>
 
 <p>Note app created with react. It was useState and props practice.</p>
 
