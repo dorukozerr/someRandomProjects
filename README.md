@@ -10,7 +10,7 @@
 
 <p>Basic dice game. I did this site at the begining of course. Used html css and javascript on this one. Declared 2 random number for each player and with if statements the winner gets determined. Page heading text manipulated with dom to show winner.</p>
 
-<p>Project3-</p>
+<h2>Project3-</h2>
 
 <p>Personal blog site created with EJS. I've changed some css options for further customization and connected this site to a mongoDB cluster. I'm currently using this site model for <a href=https://calm-gorge-16914.herokuapp.com/>a personel blog.</a> Feel free to check modified version. Entrys dynamically creates their own url when you enter them. Original site has url/compose part for entering new content but I removed that feature from deployed version.</p>
 
